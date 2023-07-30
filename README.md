@@ -1,7 +1,9 @@
 # lunar-logic
 
 
-lunar-logic is an innovative coding project that aims to create a circular logic game and visualization tool. This unique tool operates with prompts driven by different logical option gates, forming a flow chart that flows in circles. The purpose of this tool is to help users identify and point out erroneous logic, reasoning, hypocrisy, and repetitive explanations that lead to circular arguments. It serves as a playful and informative way to address logical fallacies and circular reasoning encountered in various discussions, debates, or everyday situations.
+lunar-logic is an innovative coding project that aims to create a circular logic game and visualization tool. This unique tool operates with prompts driven by different logical option gates, forming a flow chart that flows in circles. The purpose of this tool is to help users identify and point out erroneous logic, reasoning, hypocrisy, and repetitive explanations that lead to circular arguments. 
+
+It serves as a playful and informative way to address logical fallacies and circular reasoning encountered in various discussions, debates, or everyday situations.
 
 
 Key Features:
